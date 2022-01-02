@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.c60c1df9.chunk.css",
-    "main.js": "./static/js/main.b9dbf2f1.chunk.js",
-    "main.js.map": "./static/js/main.b9dbf2f1.chunk.js.map",
+    "main.css": "./static/css/main.84a3829b.chunk.css",
+    "main.js": "./static/js/main.edf3481b.chunk.js",
+    "main.js.map": "./static/js/main.edf3481b.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.ea9ab61b.js",
     "runtime-main.js.map": "./static/js/runtime-main.ea9ab61b.js.map",
-    "static/css/2.a1be631c.chunk.css": "./static/css/2.a1be631c.chunk.css",
+    "static/css/2.26df1462.chunk.css": "./static/css/2.26df1462.chunk.css",
     "static/js/2.747b66f0.chunk.js": "./static/js/2.747b66f0.chunk.js",
     "static/js/2.747b66f0.chunk.js.map": "./static/js/2.747b66f0.chunk.js.map",
     "static/js/3.b19b3509.chunk.js": "./static/js/3.b19b3509.chunk.js",
     "static/js/3.b19b3509.chunk.js.map": "./static/js/3.b19b3509.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/2.a1be631c.chunk.css.map": "./static/css/2.a1be631c.chunk.css.map",
-    "static/css/main.c60c1df9.chunk.css.map": "./static/css/main.c60c1df9.chunk.css.map",
+    "static/css/2.26df1462.chunk.css.map": "./static/css/2.26df1462.chunk.css.map",
+    "static/css/main.84a3829b.chunk.css.map": "./static/css/main.84a3829b.chunk.css.map",
     "static/js/2.747b66f0.chunk.js.LICENSE.txt": "./static/js/2.747b66f0.chunk.js.LICENSE.txt",
     "static/media/0001.bd1f0aa7.mp4": "./static/media/0001.bd1f0aa7.mp4",
     "static/media/0002.60a78d96.mp4": "./static/media/0002.60a78d96.mp4",
@@ -77,7 +77,7 @@
     "static/media/NFTsItem.module.scss": "./static/media/bg_features2.57b34ed9.jpg",
     "static/media/GlobalStyles.scss": "./static/media/red_button.a88033c1.png",
     "static/media/discord.d7161d9f.svg": "./static/media/discord.d7161d9f.svg",
-    "static/media/facebook.0d5356dd.svg": "./static/media/facebook.0d5356dd.svg",
+    "static/media/facebook.a19f6475.svg": "./static/media/facebook.a19f6475.svg",
     "static/media/flamethrower_4.e800fc9d.png": "./static/media/flamethrower_4.e800fc9d.png",
     "static/media/githubbbb.48465252.svg": "./static/media/githubbbb.48465252.svg",
     "static/media/grenade_launcher_1.c17d6313.png": "./static/media/grenade_launcher_1.c17d6313.png",
@@ -102,9 +102,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ea9ab61b.js",
-    "static/css/2.a1be631c.chunk.css",
+    "static/css/2.26df1462.chunk.css",
     "static/js/2.747b66f0.chunk.js",
-    "static/css/main.c60c1df9.chunk.css",
-    "static/js/main.b9dbf2f1.chunk.js"
+    "static/css/main.84a3829b.chunk.css",
+    "static/js/main.edf3481b.chunk.js"
   ]
 }
